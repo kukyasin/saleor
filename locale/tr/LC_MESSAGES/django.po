@@ -16,7 +16,7 @@
 # İsmail Bülent Önsoy <bulent@gaia.gen.tr>, 2019
 # Ömer Faruk Demirel <farukdemirel@hotmail.com.tr>, 2019
 # Ramazan Acar <acarist@gmail.com>, 2019
-# 
+# Yasin Kük <yasin7kuk@gmail.com>, 2019
 #, fuzzy
 msgid ""
 msgstr ""
@@ -34,53 +34,53 @@ msgstr ""
 
 #: saleor/account/__init__.py:28
 msgctxt "Event from a customer that got their account created"
-msgid "The account account was created"
-msgstr ""
+msgid "The account was created"
+msgstr "Hesap oluşturuldu"
 
 #: saleor/account/__init__.py:35
 msgctxt "Event from a customer that got the password reset link sent by email"
 msgid "Password reset link was sent to the customer"
-msgstr ""
+msgstr "Müşteriye şifre sıfırlama bağlantısı gönderildi"
 
 #: saleor/account/__init__.py:42
 msgctxt "Event from a customer that reset their password"
 msgid "The account password was reset"
-msgstr ""
+msgstr "Hesap şifresi sıfırlandı"
 
 #: saleor/account/__init__.py:48
 msgctxt "Event from a customer that placed an order"
 msgid "An order was placed"
-msgstr ""
+msgstr "Sipariş verildi"
 
 #: saleor/account/__init__.py:55
 msgctxt "Event from a customer that added a note to one of their orders"
 msgid "A note was added"
-msgstr ""
+msgstr "Not eklendi"
 
 #: saleor/account/__init__.py:62
 msgctxt "Event from a customer that downloaded an ordered digital good"
 msgid "A digital good was downloaded"
-msgstr ""
+msgstr "Dijital bir ürün indirildi"
 
 #: saleor/account/__init__.py:69
 msgctxt "Event from a staff user that deleted a customer"
 msgid "A customer was deleted"
-msgstr ""
+msgstr "Müşteri silindş"
 
 #: saleor/account/__init__.py:76
 msgctxt "Event from a staff user assigned a new name to a customer"
 msgid "A customer's name was edited"
-msgstr ""
+msgstr "Müşteri adı düzenlendi"
 
 #: saleor/account/__init__.py:83
 msgctxt "Event from a staff user assigned a new email address to a customer"
 msgid "A customer's email address was edited"
-msgstr ""
+msgstr "Müşteri eposta adresi düzenlendi"
 
 #: saleor/account/__init__.py:90
 msgctxt "Event from a staff user assigned a new email address to a customer"
 msgid "A note was added to the customer"
-msgstr ""
+msgstr "Müşteri bir not ekledi"
 
 #: saleor/account/forms.py:71
 msgctxt "Form field"
